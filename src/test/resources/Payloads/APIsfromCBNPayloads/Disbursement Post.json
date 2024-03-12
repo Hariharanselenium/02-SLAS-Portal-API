@@ -1,0 +1,16 @@
+{
+    "id": "1",
+    "transactionType": "LOAN",
+    "MDACode": "SLN0002",
+    "studentLoanDetails": [
+        {
+            "studentRefNo": "467998277",
+            "studentOtherDetails": "FACULTY OF SCI",
+            "amount": "50000",
+            "narration": "Tuition Fee"
+        }
+    ],
+    "totalAmount": "50000",
+    "valueDate": "311223",
+    "paymentDetails": "Details"
+}

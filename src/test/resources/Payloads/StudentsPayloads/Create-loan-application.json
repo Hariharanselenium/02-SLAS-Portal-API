@@ -1,0 +1,12 @@
+{
+   "loan_data": [
+       {
+           "loan_type": "school-loan"
+        },
+        {
+            "loan_type": "personal-loan"
+        }
+    ],
+    "document_terms_conditions": true,
+    "terms_conditions": true
+}

@@ -1,0 +1,11 @@
+{
+    "batchdetails": [
+        {
+            "batchID": "string",
+            "batchAmount": "string",
+            "batchStatus": "string",
+            "batchReferenceNo": "string",
+            "status": "string"
+        }
+    ]
+}
